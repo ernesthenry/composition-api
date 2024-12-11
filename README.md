@@ -1,7 +1,7 @@
 ---
 difficulty: 1
 training: true
-chapter: "Chapter 1: Vue.js Essentials"
+chapter: "Composition API"
 tags: vue
 ---
 
